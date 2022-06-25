@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Anyhing 
 - 📫 How to reach me myringole@gmail.com
+- linkedin
+- www.linkedin.com/in/mayur-ingole-415386170
 
 <!---
 TrillionaireMayur/TrillionaireMayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
