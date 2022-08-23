@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrillionaireMayur from Earth 616
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning DATA SCIENCE & ARTIFICIAL INTELLIGENCE
 - 💞️ I’m looking to collaborate on Anyhing 
 - 📫 How to reach me myringole@gmail.com
 - linkedin
