@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DATA SCIENCE & ARTIFICIAL INTELLIGENCE
 - 💞️ I’m looking to collaborate on Anyhing 
 - 📫 How to reach me myringole@gmail.com
-- linkedin
-- www.linkedin.com/in/mayur-ingole-415386170
+- linkedin  >> www.linkedin.com/in/mayur-balkrishna-ingole-415386170
+- Kggle >> https://www.kaggle.com/mayurbingole
 
 <!---
 TrillionaireMayur/TrillionaireMayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
