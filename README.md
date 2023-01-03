@@ -1,9 +1,11 @@
 - #                                                           👋 Hi, I’m Mayur Ingole from Earth 616 
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/mayur-balkrishna-ingole-415386170/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+<br />
 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DATA SCIENCE & ARTIFICIAL INTELLIGENCE
