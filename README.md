@@ -47,13 +47,13 @@
 <br />
 <br />
 
-- 👀 I’m interested in coding
+- 👀 I’m interested in __Computer vision__
 
-- 🌱 I’m currently learning DATA SCIENCE & ARTIFICIAL INTELLIGENCE
+- 🌱 I’m currently learning __Machine Learning & Artificial Intelligence__
 
 - 💞️ I’m looking to collaborate on Anyhing 
 
-- 📫 How to reach me  myringole@gmail.com
+- 📫 How to reach me  __myringole@gmail.com__
 
   
 <!---
