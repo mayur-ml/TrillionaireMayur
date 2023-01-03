@@ -1,5 +1,5 @@
-- #                                                           👋 Hi, I’m Mayur Ingole from Earth 616 
-# hey there 
+#                                                           👋 Hi, I’m Mayur Ingole 
+# Connect with me:
 
 <a href="https://www.linkedin.com/in/mayur-balkrishna-ingole-415386170/">
   <img align="left" alt="Abhishek's LinkedIN" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,7 +17,7 @@
 
 <br />
 
-# skills
+# Languages and Tools:
 
 <img align="left" alt="Abhishek's LinkedIN" width="60px" src="https://user-images.githubusercontent.com/108168115/210346934-1e6ca2ee-777b-456d-aa45-971688b37ad7.png" />
 
@@ -53,23 +53,9 @@
 
 - 💞️ I’m looking to collaborate on Anyhing 
 
-- 📫 How to reach me myringole@gmail.com
+- 📫 How to reach me  myringole@gmail.com
 
-
-- Kggle >> https://www.kaggle.com/mayurbingole
-
-__Hello world😀😀...__
-
-__if__ HR: "Please Schedule an Interview" 
-
-__elif__: 
-  Any Tech Doubts: 
-    "Connect to me" 
-     
-
-
-
-
+  
 <!---
 TrillionaireMayur/TrillionaireMayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
