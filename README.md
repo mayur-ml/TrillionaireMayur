@@ -66,7 +66,7 @@
 
 
 <p>
- <p>
+<p>
   
   
   
@@ -87,7 +87,7 @@
  
  
  
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p>
 
 <p>
  
@@ -99,7 +99,11 @@
  
 <p>
 
-<p><p><p>
+<p>
+
+<p>
+
+<p>
  
  
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
