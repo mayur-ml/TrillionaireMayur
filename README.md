@@ -2,7 +2,7 @@
 <h2 align="center">A Passionate AI/ML Geek</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trillionairemayur&label=Profile%20views&color=030303&style=flat" alt="trillionairemayur" /> </p>
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif"
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
