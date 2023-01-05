@@ -17,11 +17,13 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning :-
+ 
+   __Machine Learning & Artificial Intelligence__  	:mechanical_arm:
 
 - 📫 How to reach me **myringole@gmail.com**
 
-- ⚡👀 I’m interested in **Computer vision**
+- ⚡👀 I’m interested in **Computer vision** 👀
 
 
 
@@ -74,8 +76,8 @@
   
   
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" /></p>
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" />
+ &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p>
  
  
  
@@ -87,10 +89,6 @@
 
 <p>
  
- 
- 
- 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p>
 
 <p>
  
