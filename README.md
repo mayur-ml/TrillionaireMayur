@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mayur Ingole</h1>
 <h2 align="center">A Passionate AI/ML Geek</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trillionairemayur&label=Profile%20views&color=030303&style=flat" alt="trillionairemayur" /> </p>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/mayur-balkrishna-ingole-415386170//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-balkrishna-ingole-415386170/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19721054/mayur-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19721054/mayur-ingole" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mayurbingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayurbingole" height="30" width="40" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trillionairemayur" alt="trillionairemayur" /></a> </p>
+<br />
+
+<br />
+
+
+
+
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
@@ -12,13 +22,6 @@
 - ⚡👀 I’m interested in **Computer vision**
 
 
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/mayur-balkrishna-ingole-415386170//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-balkrishna-ingole-415386170/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19721054/mayur-ingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19721054/mayur-ingole" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mayurbingole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayurbingole" height="30" width="40" /></a>
-</p>
 
 
 <h2 align="left">Languages and Tools:</h2>
