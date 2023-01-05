@@ -76,8 +76,8 @@
   
   
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" />
- &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p>
+
+ 
  
  
  
@@ -92,22 +92,11 @@
 
 <p>
  
- 
+ &nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p> <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" />
 
 
-<p>
  
- 
-<p>
-
-<p>
-
-<p>
-
-<p>
- 
- 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
+ <img align="center"  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
 <!---
 TrillionaireMayur/TrillionaireMayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
