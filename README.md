@@ -92,7 +92,7 @@
 
 <p>
  
- &nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" /></p> <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" />
+ &nbsp;<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dark&locale=en" alt="trillionairemayur" />   </p> <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionairemayur&show_icons=true&theme=dark&locale=en&layout=compact" alt="trillionairemayur" />
 
 
  
