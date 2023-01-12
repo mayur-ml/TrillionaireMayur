@@ -92,13 +92,22 @@
 
 <p>
  
- ![M's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrillionaireMayur&show_icons=true&theme=radical)  </p> <img align="left"  width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
+
  
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrillionaireMayur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+  <a href="https://github.com/brunogroth">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trillionairemayur&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+</p> <img align="left"  width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
+
+
 
 <h2 align="center"> >> The Best Is Yet to Come << </h2>
 
+   
 
 
 <!---
