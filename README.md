@@ -102,7 +102,8 @@
 </div>
 
 
-                                     “Limits, like fears, are often just an illusion." - Michael Jordan
+   <h2 align="center"> “Limits, like fears, are often just an illusion." - Michael Jordan</h2>
+                                    
 
 
 <!---
