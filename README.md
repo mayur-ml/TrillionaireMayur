@@ -100,8 +100,6 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trillionairemayur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trillionairemayur&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   
-</p> <img align="center"  width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=trillionairemayur&theme=dark" alt="trillionairemayur" /></p>
 
 
    
