@@ -9,7 +9,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/trillionairemayur/count.svg" />
-</p>     
+</p>      
      
      
 <h2 align="left">Connect with me:</h2>
