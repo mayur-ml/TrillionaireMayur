@@ -110,11 +110,7 @@
 </div>
 
 
-   <h2 align="center"> “Never go grocery shopping when you're hungry. You'll grab the wrong things.
-    
-    
-    
-When you're desperate, you'll grab anything you want. Not what you need."</h2>
+   <h2 align="center"> “If you're not making someone else's life better, then you're wasting your time. Your life will become better by making other lives better.” ---   - Will Smith </h2>
                                     
 ![ironman_banner](https://user-images.githubusercontent.com/108168115/212155650-edd8b606-786e-4f28-a388-eebb0a79cfc1.jpg)
 
